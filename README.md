@@ -1,0 +1,1 @@
+A machine learning model built with Python that uses pandas, numpy, and sklearn to read a movie dataset and use a vectorizer and cosine similarity matrix to recommend 7 movies similar to the one the user has just watched.
